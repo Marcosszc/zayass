@@ -1,0 +1,6 @@
+{
+  "name": "BiciPosta — Puntos de Inflado y Herramientas",
+  "description": "Servicio web conectado a Supabase, GitHub y Render para gestionar puestos de inflado y herramientas con mapa interactivo OpenStreetMap y exportación directa a Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

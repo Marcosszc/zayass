@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5f1a09b8-e723-4f11-895e-6d87320da486",
+    "nombre_punto": "Estación Plaza Italia — Inflado Rápido",
+    "latitud": -34.58112,
+    "longitud": -58.42095,
+    "servicio": "inflado",
+    "horario": "07:00 a 22:00",
+    "referencia_puesto": "Tótem verde junto al acceso principal de la bicisenda de Av. Santa Fe",
+    "created_at": "2026-11-25T14:59:43.996Z",
+    "updated_at": "2026-11-25T14:59:43.996Z"
+  },
+  {
+    "id": "97cf236c-0aa4-4d8e-b83a-0a0f9d8a866a",
+    "nombre_punto": "Puesto Puerto Madero — Taller Urbano",
+    "latitud": -34.60841,
+    "longitud": -58.36389,
+    "servicio": "herramientas",
+    "horario": "24 horas",
+    "referencia_puesto": "Poste metálico con llaves Allen y desmontables frente al Puente de la Mujer",
+    "created_at": "2026-11-25T14:59:43.996Z",
+    "updated_at": "2026-11-25T14:59:43.996Z"
+  },
+  {
+    "id": "45b908d0-3424-4b51-a837-6957cd4a7af6",
+    "nombre_punto": "Posta Parque Centenario — Servicio Integral",
+    "latitud": -34.60648,
+    "longitud": -58.43572,
+    "servicio": "inflado y herramientas",
+    "horario": "08:00 a 20:00",
+    "referencia_puesto": "Sector oeste de la pista aeróbica, a 20 metros del anfiteatro",
+    "created_at": "2026-11-25T14:59:43.996Z",
+    "updated_at": "2026-11-25T14:59:43.996Z"
+  }
+]
